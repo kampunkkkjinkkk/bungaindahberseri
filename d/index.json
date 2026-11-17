@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1794936105,
+  "built": 1794936392,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -19,8 +19,8 @@
       "well": 2,
       "sumber": "vidio",
       "kanal": 3,
-      "valid_until": 1794957705,
-      "sha256": "358e4a4d2e4574d542b8d9129cae8e9b4c87ad1b1ca48f0fb7eb8498a7eb1532",
+      "valid_until": 1794957992,
+      "sha256": "63e3c70a151168a8aee102a580b0d0eb23205413f374e5db760397b286b03360",
       "ukuran": 1277
     },
     {
@@ -39,8 +39,8 @@
       "well": 4,
       "sumber": "public",
       "kanal": 10,
-      "valid_until": 1797526358,
-      "sha256": "55e1fb6856cfaca21c63c441a33353e7b9653332e56cd21efebd8bd68b7b81eb",
+      "valid_until": 1797528173,
+      "sha256": "612fdf5287f0058b875620a24ecbcff221c7a7aefe635accc24806702695a169",
       "ukuran": 16717
     }
   ]
