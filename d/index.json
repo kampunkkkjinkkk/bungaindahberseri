@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1794912059,
+  "built": 1794913168,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -19,8 +19,8 @@
       "well": 2,
       "sumber": "vidio",
       "kanal": 3,
-      "valid_until": 1794912246,
-      "sha256": "a1c68b439f33e9ae4eb7a13f519d807d255596d196e45282d475236fe088ab21",
+      "valid_until": 1794913391,
+      "sha256": "726f7fd1ba03c5d5b99746cbf67488d99877604d8c3e5a20ce736ce89fd12b98",
       "ukuran": 2950
     },
     {
@@ -28,10 +28,10 @@
       "berkas": "wellthree.json",
       "well": 3,
       "sumber": "bittv",
-      "kanal": 66,
-      "valid_until": 1797504059,
-      "sha256": "49643af3340d7cf763c2caf3b14d5b2fd1d8bbfe9997ac6290de3c36b5440e58",
-      "ukuran": 48845
+      "kanal": 68,
+      "valid_until": 1797505168,
+      "sha256": "a792a3ea570d3f264e65a1c4b49922e0cdc5b0edfe46389b6fe08c56f7f9ac67",
+      "ukuran": 50357
     },
     {
       "nama": "wellfour",
@@ -39,8 +39,8 @@
       "well": 4,
       "sumber": "public",
       "kanal": 10,
-      "valid_until": 1797502694,
-      "sha256": "0bc7d6dd8fd9ca36e2af77e59b814276ee372cc21955d51c7793f812ca86925c",
+      "valid_until": 1797504519,
+      "sha256": "a5657682eb2c4bd321366b217506f680771a60f3020a065f7740e33005e378f0",
       "ukuran": 16717
     }
   ]
