@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1794909210,
+  "built": 1794910195,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -28,10 +28,10 @@
       "berkas": "wellthree.json",
       "well": 3,
       "sumber": "bittv",
-      "kanal": 56,
-      "valid_until": 1797501210,
-      "sha256": "1288ea95a7c64be7fe1b11927622bbe7cdadb7b21f0e51e7c06c76bf89cbb5f3",
-      "ukuran": 41369
+      "kanal": 66,
+      "valid_until": 1797502195,
+      "sha256": "47878da6cd2fe84efe60c2106ad762c19f82e08d44cef8557d8a806ba6fef92c",
+      "ukuran": 48845
     },
     {
       "nama": "wellfour",
