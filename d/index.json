@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1795119170,
+  "built": 1795121936,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -9,8 +9,8 @@
       "well": 1,
       "sumber": "rctiplus",
       "kanal": 10,
-      "valid_until": 1795140770,
-      "sha256": "089827fe1c46b22d5868d04141a0191a331c68c283f861f369dcfd2e4ae11dd3",
+      "valid_until": 1795143536,
+      "sha256": "ebc6f34b78ee3e08c7dbc51a188aee36c7562f31ddce46d060e79e7e92241d47",
       "ukuran": 7141
     },
     {
@@ -19,8 +19,8 @@
       "well": 2,
       "sumber": "vidio",
       "kanal": 3,
-      "valid_until": 1795140770,
-      "sha256": "0dcb750011a40d95269bdb75ed89f2a3a70214abba10465a2af283fed5e23bec",
+      "valid_until": 1795143536,
+      "sha256": "399ea7156de3565aa4f994978459372ffd1195d5c92400f00c50cb92b9c5afbf",
       "ukuran": 1277
     },
     {
@@ -29,8 +29,8 @@
       "well": 3,
       "sumber": "bittv",
       "kanal": 23,
-      "valid_until": 1795140770,
-      "sha256": "36e5c66367a819f870c45b911a4a51d97bc7bd736bbe2a3cd01aa274e3b33545",
+      "valid_until": 1795143536,
+      "sha256": "bd9dbc83c6908e3905dc0a9c97ffe95af89e0295c7dc6e7f81726d1d56f0f17f",
       "ukuran": 14733
     },
     {
@@ -39,8 +39,8 @@
       "well": 4,
       "sumber": "public",
       "kanal": 10,
-      "valid_until": 1795140770,
-      "sha256": "30a4f94c325e73b07bd15233ef4f1f574ad3d94c557d5d3e3ff3070e0c87ae18",
+      "valid_until": 1795143536,
+      "sha256": "f9a55856dbc731955d48a0841e5fd93d25f86f81b76a4388ad4c099f82df37f1",
       "ukuran": 7053
     }
   ]
