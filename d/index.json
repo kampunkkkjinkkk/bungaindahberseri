@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1795057766,
+  "built": 1795058362,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -8,10 +8,10 @@
       "berkas": "wellone.json",
       "well": 1,
       "sumber": "rctiplus",
-      "kanal": 11,
-      "valid_until": 1795079366,
-      "sha256": "7e5f162d61eb3a50d6919e9ec297a5a2f70ad631bf55adb21318f0390f4ab4bd",
-      "ukuran": 7273
+      "kanal": 10,
+      "valid_until": 1795079852,
+      "sha256": "b7d89f11623ff840d140c9dcacc7b880bca6b35f15611d538b7077e38ff3f064",
+      "ukuran": 7141
     },
     {
       "nama": "welltwo",
