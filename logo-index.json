@@ -1,43 +1,74 @@
 {
   "v": 1,
   "source": "livescore",
-  "date": "20261127",
+  "date": "20261121",
   "teams": {
     "12635": {
       "name": "Espanyol",
       "file": "logo-tim/ls-12635.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-12635.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "RCD Espanyol"
+      }
     },
     "204": {
       "name": "Troyes",
       "file": "logo-tim/ls-204.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-204.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "ES Troyes AC"
+      }
     },
     "227906": {
       "name": "Dewa United",
       "file": "logo-tim/ls-227906.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-227906.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Dewa United Banten F.C."
+      }
     },
     "264": {
       "name": "Le Havre",
       "file": "logo-tim/ls-264.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "285": {
       "name": "FC Cologne",
       "file": "logo-tim/ls-285.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-285.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "1. FC Köln"
+      }
     },
     "2940": {
       "name": "Bayern Munich",
       "file": "logo-tim/ls-2940.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2940.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Bayern Munich"
+      }
     },
     "3408": {
       "name": "Athletic Club",
@@ -55,19 +86,32 @@
       "name": "Al Nassr",
       "file": "logo-tim/ls-346.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-346.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Al-Nassr FC"
+      }
     },
     "3858": {
       "name": "FC Andorra",
       "file": "logo-tim/ls-3858.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3858.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Andorra"
+      }
     },
     "4379": {
       "name": "Al Ahli",
       "file": "logo-tim/ls-4379.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "4989": {
       "name": "Garudayaksa FC",
@@ -79,7 +123,13 @@
       "name": "PSS Sleman",
       "file": "logo-tim/ls-5308.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-5308.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "PSS Sleman"
+      }
     },
     "5310": {
       "name": "Madura United",
@@ -97,475 +147,859 @@
       "name": "Seattle Sounders FC",
       "file": "logo-tim/ls-8301.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8301.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Seattle Sounders FC"
+      }
     },
     "8585": {
       "name": "Persita Tangerang",
       "file": "logo-tim/ls-8585.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8585.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Persita Tangerang"
+      }
     },
     "8893": {
       "name": "Orlando City",
       "file": "logo-tim/ls-8893.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8893.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Orlando City SC"
+      }
     },
     "8894": {
       "name": "Real Salt Lake",
       "file": "logo-tim/ls-8894.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8894.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Salt Lake"
+      }
     },
     "8948": {
       "name": "FC Cincinnati",
       "file": "logo-tim/ls-8948.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8948.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Cincinnati"
+      }
     },
     "10609": {
       "name": "PSIM Yogyakarta",
+      "country": "Indonesia",
       "file": "logo-tim/ls-10609.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-10609.png",
+        "px": 316,
+        "src": "wikipedia",
+        "page": "PSIM Yogyakarta"
+      }
     },
     "12633": {
       "name": "Manchester City",
+      "country": "England",
       "file": "logo-tim/ls-12633.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-12633.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Manchester City F.C."
+      }
     },
     "12634": {
       "name": "Sevilla",
+      "country": "Spain",
       "file": "logo-tim/ls-12634.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-12634.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Sevilla FC"
+      }
     },
     "12636": {
       "name": "Deportivo A Coruna",
+      "country": "Spain",
       "file": "logo-tim/ls-12636.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": null
     },
     "15": {
       "name": "Bayer Leverkusen",
+      "country": "Germany",
       "file": "logo-tim/ls-15.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-15.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Bayer 04 Leverkusen"
+      }
     },
     "196": {
       "name": "Auxerre",
+      "country": "France",
       "file": "logo-tim/ls-196.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "266": {
       "name": "Schalke 04",
+      "country": "Germany",
       "file": "logo-tim/ls-266.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-266.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Schalke 04"
+      }
     },
     "2772": {
       "name": "Crystal Palace",
+      "country": "England",
       "file": "logo-tim/ls-2772.png",
       "px": 48,
       "src": "cache"
     },
     "2773": {
       "name": "Arsenal",
+      "country": "England",
       "file": "logo-tim/ls-2773.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2773.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Arsenal F.C."
+      }
     },
     "2786": {
       "name": "Ipswich Town",
+      "country": "England",
       "file": "logo-tim/ls-2786.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2786.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Ipswich Town F.C."
+      }
     },
     "2828": {
       "name": "Union Berlin",
+      "country": "Germany",
       "file": "logo-tim/ls-2828.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2828.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "1. FC Union Berlin"
+      }
     },
     "2851": {
       "name": "Paderborn",
+      "country": "Germany",
       "file": "logo-tim/ls-2851.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "2872": {
       "name": "Fulham",
+      "country": "England",
       "file": "logo-tim/ls-2872.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2872.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Fulham F.C."
+      }
     },
     "2881": {
       "name": "Chelsea",
+      "country": "England",
       "file": "logo-tim/ls-2881.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2881.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Chelsea F.C."
+      }
     },
     "2949": {
       "name": "Sunderland",
+      "country": "England",
       "file": "logo-tim/ls-2949.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2949.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Sunderland A.F.C."
+      }
     },
     "2986": {
       "name": "Newcastle United",
+      "country": "England",
       "file": "logo-tim/ls-2986.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2986.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Newcastle United F.C."
+      }
     },
     "2987": {
       "name": "Cagliari",
+      "country": "Italy",
       "file": "logo-tim/ls-2987.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2987.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Cagliari Calcio"
+      }
     },
     "3039": {
       "name": "Coventry City",
+      "country": "England",
       "file": "logo-tim/ls-3039.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3039.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Coventry City F.C."
+      }
     },
     "3060": {
       "name": "Nottingham Forest",
+      "country": "England",
       "file": "logo-tim/ls-3060.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3060.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Nottingham Forest F.C."
+      }
     },
     "3143": {
       "name": "Leeds United",
+      "country": "England",
       "file": "logo-tim/ls-3143.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3143.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Leeds United F.C."
+      }
     },
     "3178": {
       "name": "Torino",
+      "country": "Italy",
       "file": "logo-tim/ls-3178.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3178.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Torino FC"
+      }
     },
     "3298": {
       "name": "Tenerife",
+      "country": "Spain",
       "file": "logo-tim/ls-3298.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "3333": {
       "name": "Hoffenheim",
+      "country": "Germany",
       "file": "logo-tim/ls-3333.png",
       "px": 48,
       "src": "cache"
     },
     "3339": {
       "name": "Tottenham Hotspur",
+      "country": "England",
       "file": "logo-tim/ls-3339.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3339.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Tottenham Hotspur F.C."
+      }
     },
     "334642": {
       "name": "Malut United",
+      "country": "Indonesia",
       "file": "logo-tim/ls-334642.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "3352": {
       "name": "Real Betis",
+      "country": "Spain",
       "file": "logo-tim/ls-3352.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3352.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Betis"
+      }
     },
     "3410": {
       "name": "Strasbourg",
+      "country": "France",
       "file": "logo-tim/ls-3410.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3410.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "RC Strasbourg Alsace"
+      }
     },
     "3434": {
       "name": "Cadiz",
+      "country": "Spain",
       "file": "logo-tim/ls-3434.png",
-      "px": 48,
-      "src": "livescore"
-    },
-    "3459": {
-      "name": "Lazio",
-      "file": "logo-tim/ls-3459.png",
-      "px": 48,
-      "src": "livescore"
-    },
-    "3460": {
-      "name": "Napoli",
-      "file": "logo-tim/ls-3460.png",
       "px": 48,
       "src": "cache"
     },
+    "3459": {
+      "name": "Lazio",
+      "country": "Italy",
+      "file": "logo-tim/ls-3459.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3460": {
+      "name": "Napoli",
+      "country": "Italy",
+      "file": "logo-tim/ls-3460.png",
+      "px": 48,
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3460.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "SSC Napoli"
+      }
+    },
     "3497": {
       "name": "Toulouse",
+      "country": "France",
       "file": "logo-tim/ls-3497.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": null
     },
     "3498": {
       "name": "Brest",
+      "country": "France",
       "file": "logo-tim/ls-3498.png",
       "px": 48,
       "src": "cache"
     },
     "3532": {
       "name": "Nice",
+      "country": "France",
       "file": "logo-tim/ls-3532.png",
-      "px": 48,
-      "src": "livescore"
-    },
-    "3632": {
-      "name": "Eintracht Frankfurt",
-      "file": "logo-tim/ls-3632.png",
-      "px": 48,
-      "src": "livescore"
-    },
-    "364": {
-      "name": "Borussia M'gladbach",
-      "file": "logo-tim/ls-364.png",
       "px": 48,
       "src": "cache"
     },
+    "3632": {
+      "name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "file": "logo-tim/ls-3632.png",
+      "px": 48,
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3632.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Eintracht Frankfurt"
+      }
+    },
+    "364": {
+      "name": "Borussia M'gladbach",
+      "country": "Germany",
+      "file": "logo-tim/ls-364.png",
+      "px": 48,
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-364.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Borussia Mönchengladbach"
+      }
+    },
     "3640": {
       "name": "Granada",
+      "country": "Spain",
       "file": "logo-tim/ls-3640.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": null
     },
     "365": {
       "name": "Freiburg",
+      "country": "Germany",
       "file": "logo-tim/ls-365.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "3656": {
       "name": "Lyon",
+      "country": "France",
       "file": "logo-tim/ls-3656.png",
       "px": 48,
       "src": "cache"
     },
     "3730": {
       "name": "Castellon",
+      "country": "Spain",
       "file": "logo-tim/ls-3730.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "3731": {
       "name": "Sabadell",
+      "country": "Spain",
       "file": "logo-tim/ls-3731.png",
       "px": 48,
       "src": "cache"
     },
     "3863": {
       "name": "Aston Villa",
+      "country": "England",
       "file": "logo-tim/ls-3863.png",
       "px": 40,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3863.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Aston Villa F.C."
+      }
     },
     "3880": {
       "name": "Lille",
+      "country": "France",
       "file": "logo-tim/ls-3880.png",
       "px": 48,
       "src": "cache"
     },
     "3910": {
       "name": "Paris Saint-Germain",
+      "country": "France",
       "file": "logo-tim/ls-3910.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3910.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Paris Saint-Germain FC"
+      }
     },
     "3928": {
       "name": "AFC Bournemouth",
+      "country": "England",
       "file": "logo-tim/ls-3928.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3928.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AFC Bournemouth"
+      }
     },
     "4008": {
       "name": "Valencia",
+      "country": "Spain",
       "file": "logo-tim/ls-4008.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "4009": {
       "name": "Real Madrid",
+      "country": "Spain",
       "file": "logo-tim/ls-4009.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4009.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Madrid CF"
+      }
     },
     "4162": {
       "name": "Celta Vigo",
+      "country": "Spain",
       "file": "logo-tim/ls-4162.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4162.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "RC Celta de Vigo"
+      }
     },
     "4183": {
       "name": "Real Sociedad B",
+      "country": "Spain",
       "file": "logo-tim/ls-4183.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "4227": {
       "name": "Como 1907",
+      "country": "Italy",
       "file": "logo-tim/ls-4227.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4227.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Como 1907"
+      }
     },
     "4237": {
       "name": "AS Roma",
+      "country": "Italy",
       "file": "logo-tim/ls-4237.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4237.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AS Roma"
+      }
     },
     "4253": {
       "name": "Rayo Vallecano",
+      "country": "Spain",
       "file": "logo-tim/ls-4253.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4253.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Rayo Vallecano"
+      }
     },
     "4328": {
       "name": "AS Monaco",
+      "country": "France",
       "file": "logo-tim/ls-4328.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4328.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AS Monaco FC"
+      }
     },
     "4378": {
       "name": "VfB Stuttgart",
+      "country": "Germany",
       "file": "logo-tim/ls-4378.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4378.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "VfB Stuttgart"
+      }
     },
     "4410": {
       "name": "Parma",
+      "country": "Italy",
       "file": "logo-tim/ls-4410.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4410.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Parma Calcio 1913"
+      }
     },
     "4411": {
       "name": "Lecce",
+      "country": "Italy",
       "file": "logo-tim/ls-4411.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "448": {
       "name": "Borussia Dortmund",
+      "country": "Germany",
       "file": "logo-tim/ls-448.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-448.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Borussia Dortmund"
+      }
     },
     "4482": {
       "name": "Deportivo Alaves",
+      "country": "Spain",
       "file": "logo-tim/ls-4482.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4482.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Deportivo Alavés"
+      }
     },
     "4707": {
       "name": "RB Leipzig",
+      "country": "Germany",
       "file": "logo-tim/ls-4707.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4707.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "RB Leipzig"
+      }
     },
     "4715": {
       "name": "Lens",
+      "country": "France",
       "file": "logo-tim/ls-4715.png",
       "px": 48,
       "src": "cache"
     },
     "4990": {
       "name": "Persijap Jepara",
+      "country": "Indonesia",
       "file": "logo-tim/ls-4990.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "500": {
       "name": "Mallorca",
+      "country": "Spain",
       "file": "logo-tim/ls-500.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "6067": {
       "name": "PSM Makassar",
+      "country": "Indonesia",
       "file": "logo-tim/ls-6067.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-6067.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "PSM Makassar"
+      }
     },
     "6092": {
       "name": "Bhayangkara FC",
+      "country": "Indonesia",
       "file": "logo-tim/ls-6092.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-6092.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Bhayangkara Presisi Lampung F.C."
+      }
     },
     "6100": {
       "name": "Persebaya Surabaya",
+      "country": "Indonesia",
       "file": "logo-tim/ls-6100.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-6100.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Persebaya Surabaya"
+      }
     },
     "6104": {
       "name": "Persija Jakarta",
+      "country": "Indonesia",
       "file": "logo-tim/ls-6104.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "7281": {
       "name": "Elversberg",
+      "country": "Germany",
       "file": "logo-tim/ls-7281.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "82774": {
       "name": "CD Eldense",
+      "country": "Spain",
       "file": "logo-tim/ls-82774.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-82774.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "CD Eldense"
+      }
     },
     "8586": {
       "name": "Persik Kediri",
+      "country": "Indonesia",
       "file": "logo-tim/ls-8586.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8586.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Persik Kediri"
+      }
     },
     "8888": {
       "name": "New England Revolution",
+      "country": "USA",
       "file": "logo-tim/ls-8888.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8888.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "New England Revolution"
+      }
     },
     "8929": {
       "name": "FC Dallas",
+      "country": "USA",
       "file": "logo-tim/ls-8929.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8929.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Dallas"
+      }
     },
     "8930": {
       "name": "Philadelphia Union",
+      "country": "USA",
       "file": "logo-tim/ls-8930.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8930.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Philadelphia Union"
+      }
     },
     "8975": {
       "name": "Portland Timbers",
+      "country": "USA",
       "file": "logo-tim/ls-8975.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-8975.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Portland Timbers"
+      }
     },
     "8990": {
       "name": "Columbus Crew",
+      "country": "USA",
       "file": "logo-tim/ls-8990.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache"
     },
     "9001": {
       "name": "Inter Miami CF",
+      "country": "USA",
       "file": "logo-tim/ls-9001.png",
       "px": 48,
-      "src": "livescore"
+      "src": "cache",
+      "wiki": null
     },
     "195": {
       "name": "Le Mans",
@@ -589,25 +1023,44 @@
       "name": "Marseille",
       "file": "logo-tim/ls-206.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": null
     },
     "265": {
       "name": "Hamburger SV",
       "file": "logo-tim/ls-265.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-265.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Hamburger SV"
+      }
     },
     "2810": {
       "name": "Manchester United",
       "file": "logo-tim/ls-2810.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2810.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Manchester United F.C."
+      }
     },
     "2871": {
       "name": "Hull City",
       "file": "logo-tim/ls-2871.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-2871.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Hull City A.F.C."
+      }
     },
     "2911": {
       "name": "Barcelona",
@@ -619,7 +1072,13 @@
       "name": "Atletico Madrid",
       "file": "logo-tim/ls-2912.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2912.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Atlético Madrid"
+      }
     },
     "2918": {
       "name": "Brighton",
@@ -631,49 +1090,77 @@
       "name": "AC Milan",
       "file": "logo-tim/ls-2988.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-2988.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AC Milan"
+      }
     },
     "317": {
       "name": "Paris FC",
       "file": "logo-tim/ls-317.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-317.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Paris FC"
+      }
     },
     "3179": {
       "name": "Genoa",
       "file": "logo-tim/ls-3179.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "318": {
       "name": "Augsburg",
       "file": "logo-tim/ls-318.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3310": {
       "name": "Mainz 05",
       "file": "logo-tim/ls-3310.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3310.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "1. FSV Mainz 05"
+      }
     },
     "3340": {
       "name": "Liverpool",
       "file": "logo-tim/ls-3340.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3340.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Liverpool F.C."
+      }
     },
     "3358": {
       "name": "Las Palmas",
       "file": "logo-tim/ls-3358.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3379": {
       "name": "Getafe",
       "file": "logo-tim/ls-3379.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3415": {
       "name": "Inter",
@@ -703,7 +1190,13 @@
       "name": "Girona",
       "file": "logo-tim/ls-3586.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3586.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Girona FC"
+      }
     },
     "3608": {
       "name": "Villarreal",
@@ -715,43 +1208,75 @@
       "name": "Real Valladolid",
       "file": "logo-tim/ls-3658.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3658.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Valladolid"
+      }
     },
     "3727": {
       "name": "Werder Bremen",
       "file": "logo-tim/ls-3727.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3727.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "SV Werder Bremen"
+      }
     },
     "3786": {
       "name": "Eibar",
       "file": "logo-tim/ls-3786.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3787": {
       "name": "Celta Vigo B",
       "file": "logo-tim/ls-3787.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3787.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "RC Celta Fortuna"
+      }
     },
     "3861": {
       "name": "Udinese",
       "file": "logo-tim/ls-3861.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3861.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Udinese Calcio"
+      }
     },
     "3862": {
       "name": "Sassuolo",
       "file": "logo-tim/ls-3862.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3903": {
       "name": "Bologna",
       "file": "logo-tim/ls-3903.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-3903.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Bologna FC 1909"
+      }
     },
     "411610": {
       "name": "Isenmulang Kalteng",
@@ -763,115 +1288,219 @@
       "name": "Real Sociedad",
       "file": "logo-tim/ls-4169.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4169.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Sociedad"
+      }
     },
     "4182": {
       "name": "Burgos CF",
       "file": "logo-tim/ls-4182.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4182.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Burgos CF"
+      }
     },
     "4195": {
       "name": "Cordoba",
       "file": "logo-tim/ls-4195.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "4238": {
       "name": "Juventus",
       "file": "logo-tim/ls-4238.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4238.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Juventus FC"
+      }
     },
     "4320": {
       "name": "Sporting Gijon",
       "file": "logo-tim/ls-4320.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4320.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Sporting de Gijón"
+      }
     },
     "4403": {
       "name": "Lorient",
       "file": "logo-tim/ls-4403.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4403.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Lorient"
+      }
     },
     "4436": {
       "name": "Bali United",
       "file": "logo-tim/ls-4436.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4436.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Bali United F.C."
+      }
     },
     "4442": {
       "name": "Malaga",
       "file": "logo-tim/ls-4442.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "4456": {
       "name": "Real Oviedo",
       "file": "logo-tim/ls-4456.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4456.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Real Oviedo"
+      }
     },
     "4508": {
       "name": "Racing Santander",
       "file": "logo-tim/ls-4508.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4508.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Racing de Santander"
+      }
     },
     "4617": {
       "name": "Frosinone",
       "file": "logo-tim/ls-4617.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4617.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Frosinone Calcio"
+      }
     },
     "463": {
       "name": "Osasuna",
       "file": "logo-tim/ls-463.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-463.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "CA Osasuna"
+      }
     },
     "4652": {
       "name": "Venezia",
       "file": "logo-tim/ls-4652.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-4652.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Venezia FC"
+      }
     },
     "6066": {
       "name": "Persib Bandung",
       "file": "logo-tim/ls-6066.png",
       "px": 43,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6066.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Persib Bandung"
+      }
     },
     "6071": {
       "name": "Borneo FC Samarinda",
       "file": "logo-tim/ls-6071.png",
       "px": 48,
-      "src": "cache"
+      "src": "cache",
+      "wiki": {
+        "file": "logo-tim/wiki-6071.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Borneo F.C. Samarinda"
+      }
     },
     "8927": {
       "name": "Nashville SC",
       "file": "logo-tim/ls-8927.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8927.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Nashville SC"
+      }
     },
     "8959": {
       "name": "Chicago Fire",
       "file": "logo-tim/ls-8959.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8959.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Chicago Fire FC"
+      }
     },
     "2865": {
       "name": "Brentford",
       "file": "logo-tim/ls-2865.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-2865.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Brentford F.C."
+      }
     },
     "2917": {
       "name": "Everton",
       "file": "logo-tim/ls-2917.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-2917.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Everton F.C."
+      }
     },
     "3622": {
       "name": "Elche",
@@ -883,7 +1512,13 @@
       "name": "Fiorentina",
       "file": "logo-tim/ls-3951.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3951.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "ACF Fiorentina"
+      }
     },
     "4164": {
       "name": "Levante",
@@ -901,7 +1536,8 @@
       "name": "Monza",
       "file": "logo-tim/ls-4224.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "4518": {
       "name": "Almeria",
@@ -913,19 +1549,27 @@
       "name": "Vancouver Whitecaps",
       "file": "logo-tim/ls-8920.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8920.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Vancouver Whitecaps FC"
+      }
     },
     "189": {
       "name": "Galatasaray",
       "file": "logo-tim/ls-189.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "244836": {
       "name": "St. Louis City",
       "file": "logo-tim/ls-244836.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "262": {
       "name": "FC Porto",
@@ -943,7 +1587,13 @@
       "name": "AEK Athens",
       "file": "logo-tim/ls-4281.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4281.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AEK Athens F.C."
+      }
     },
     "449": {
       "name": "Feyenoord",
@@ -955,79 +1605,152 @@
       "name": "PSV Eindhoven",
       "file": "logo-tim/ls-497.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-497.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "PSV Eindhoven"
+      }
     },
     "5268": {
       "name": "LASK",
       "file": "logo-tim/ls-5268.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-5268.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "LASK"
+      }
     },
     "6793": {
       "name": "Slovan Bratislava",
       "file": "logo-tim/ls-6793.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6793.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "ŠK Slovan Bratislava B"
+      }
     },
     "7911": {
       "name": "Los Angeles FC",
       "file": "logo-tim/ls-7911.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-7911.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Los Angeles FC"
+      }
     },
     "3365": {
       "name": "Club Brugge",
       "file": "logo-tim/ls-3365.png",
       "px": 37,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3365.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Club Brugge KV"
+      }
     },
     "3442": {
       "name": "Sporting CP",
       "file": "logo-tim/ls-3442.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3442.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Sporting CP"
+      }
     },
     "4452": {
       "name": "Fenerbahçe",
       "file": "logo-tim/ls-4452.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4452.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Fenerbahçe S.K."
+      }
     },
     "6145": {
       "name": "Slavia Prague",
       "file": "logo-tim/ls-6145.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6145.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "SK Slavia Prague"
+      }
     },
     "6181": {
       "name": "Sabah FK",
       "file": "logo-tim/ls-6181.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6181.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Sabah FK (Azerbaijan)"
+      }
     },
     "6389": {
       "name": "Shakhtar Donetsk",
       "file": "logo-tim/ls-6389.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6389.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Shakhtar Donetsk"
+      }
     },
     "7351": {
       "name": "Viking",
       "file": "logo-tim/ls-7351.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "8899": {
       "name": "Houston Dynamo",
       "file": "logo-tim/ls-8899.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8899.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Houston Dynamo FC"
+      }
     },
     "8908": {
       "name": "San Jose Earthquakes",
       "file": "logo-tim/ls-8908.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8908.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "San Jose Earthquakes"
+      }
     },
     "229696": {
       "name": "Al Riyadh",
@@ -1039,7 +1762,13 @@
       "name": "AZ Alkmaar",
       "file": "logo-tim/ls-236.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-236.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AZ Alkmaar"
+      }
     },
     "291": {
       "name": "Beşiktaş",
@@ -1081,37 +1810,73 @@
       "name": "Omonia Nicosia",
       "file": "logo-tim/ls-356.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-356.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "AC Omonia"
+      }
     },
     "380": {
       "name": "Ferencvaros",
       "file": "logo-tim/ls-380.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-380.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Ferencvárosi TC"
+      }
     },
     "3925": {
       "name": "OFI Crete",
       "file": "logo-tim/ls-3925.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-3925.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "OFI Crete F.C."
+      }
     },
     "4093": {
       "name": "Torreense",
       "file": "logo-tim/ls-4093.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4093.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "S.C.U. Torreense"
+      }
     },
     "4186": {
       "name": "Olympiacos",
       "file": "logo-tim/ls-4186.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4186.png",
+        "px": 267,
+        "src": "wikipedia",
+        "page": "Olympiacos CFP"
+      }
     },
     "4202": {
       "name": "NEC Nijmegen",
       "file": "logo-tim/ls-4202.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4202.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "NEC Nijmegen"
+      }
     },
     "4380": {
       "name": "Abha",
@@ -1135,7 +1900,13 @@
       "name": "Celtic",
       "file": "logo-tim/ls-4700.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-4700.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Celtic F.C."
+      }
     },
     "472": {
       "name": "Anderlecht",
@@ -1159,19 +1930,32 @@
       "name": "Dinamo Zagreb",
       "file": "logo-tim/ls-6179.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6179.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "GNK Dinamo Zagreb"
+      }
     },
     "6476": {
       "name": "Viktoria Plzen",
       "file": "logo-tim/ls-6476.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-6476.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "FC Viktoria Plzeň"
+      }
     },
     "6552": {
       "name": "Levski Sofia",
       "file": "logo-tim/ls-6552.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "6613": {
       "name": "Sparta Prague",
@@ -1195,7 +1979,13 @@
       "name": "Al Fateh",
       "file": "logo-tim/ls-8.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-8.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Al Fateh SC"
+      }
     },
     "8049": {
       "name": "Ararat Armenia",
@@ -1261,7 +2051,8 @@
       "name": "NEOM SC",
       "file": "logo-tim/ls-331851.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": null
     },
     "3420": {
       "name": "Al Feiha",
@@ -1273,7 +2064,13 @@
       "name": "Al Ittihad",
       "file": "logo-tim/ls-347.png",
       "px": 48,
-      "src": "livescore"
+      "src": "livescore",
+      "wiki": {
+        "file": "logo-tim/wiki-347.png",
+        "px": 960,
+        "src": "wikipedia",
+        "page": "Al-Ittihad Club (Jeddah)"
+      }
     },
     "7878": {
       "name": "Al Khaleej",
@@ -1343,5 +2140,6 @@
       "px": 60,
       "tier": "high"
     }
-  }
+  },
+  "wiki_updated": "2026-11-20T12:30:29Z"
 }
