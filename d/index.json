@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1795217058,
+  "built": 1795218858,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -10,7 +10,7 @@
       "sumber": "rctiplus",
       "kanal": 10,
       "valid_until": 4102444800,
-      "sha256": "41620d8df956e53d3ec3650217937e2d49a8c8078e0d3c96ee661717f9f73c84",
+      "sha256": "05d9c5d15c5f6d9bf5ffb4af3686b3a808eff8bdef3d3eca8ee0d10faf467ae6",
       "ukuran": 13201
     },
     {
