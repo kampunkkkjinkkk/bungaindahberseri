@@ -1,0 +1,1347 @@
+{
+  "v": 1,
+  "source": "livescore",
+  "date": "20261127",
+  "teams": {
+    "12635": {
+      "name": "Espanyol",
+      "file": "logo-tim/ls-12635.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "204": {
+      "name": "Troyes",
+      "file": "logo-tim/ls-204.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "227906": {
+      "name": "Dewa United",
+      "file": "logo-tim/ls-227906.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "264": {
+      "name": "Le Havre",
+      "file": "logo-tim/ls-264.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "285": {
+      "name": "FC Cologne",
+      "file": "logo-tim/ls-285.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2940": {
+      "name": "Bayern Munich",
+      "file": "logo-tim/ls-2940.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3408": {
+      "name": "Athletic Club",
+      "file": "logo-tim/ls-3408.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3452": {
+      "name": "Leganes",
+      "file": "logo-tim/ls-3452.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "346": {
+      "name": "Al Nassr",
+      "file": "logo-tim/ls-346.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3858": {
+      "name": "FC Andorra",
+      "file": "logo-tim/ls-3858.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4379": {
+      "name": "Al Ahli",
+      "file": "logo-tim/ls-4379.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4989": {
+      "name": "Garudayaksa FC",
+      "file": "logo-tim/ls-4989.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "5308": {
+      "name": "PSS Sleman",
+      "file": "logo-tim/ls-5308.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "5310": {
+      "name": "Madura United",
+      "file": "logo-tim/ls-5310.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6065": {
+      "name": "Arema FC",
+      "file": "logo-tim/ls-6065.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8301": {
+      "name": "Seattle Sounders FC",
+      "file": "logo-tim/ls-8301.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8585": {
+      "name": "Persita Tangerang",
+      "file": "logo-tim/ls-8585.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "8893": {
+      "name": "Orlando City",
+      "file": "logo-tim/ls-8893.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8894": {
+      "name": "Real Salt Lake",
+      "file": "logo-tim/ls-8894.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8948": {
+      "name": "FC Cincinnati",
+      "file": "logo-tim/ls-8948.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "10609": {
+      "name": "PSIM Yogyakarta",
+      "file": "logo-tim/ls-10609.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "12633": {
+      "name": "Manchester City",
+      "file": "logo-tim/ls-12633.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "12634": {
+      "name": "Sevilla",
+      "file": "logo-tim/ls-12634.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "12636": {
+      "name": "Deportivo A Coruna",
+      "file": "logo-tim/ls-12636.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "15": {
+      "name": "Bayer Leverkusen",
+      "file": "logo-tim/ls-15.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "196": {
+      "name": "Auxerre",
+      "file": "logo-tim/ls-196.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "266": {
+      "name": "Schalke 04",
+      "file": "logo-tim/ls-266.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2772": {
+      "name": "Crystal Palace",
+      "file": "logo-tim/ls-2772.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2773": {
+      "name": "Arsenal",
+      "file": "logo-tim/ls-2773.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2786": {
+      "name": "Ipswich Town",
+      "file": "logo-tim/ls-2786.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2828": {
+      "name": "Union Berlin",
+      "file": "logo-tim/ls-2828.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2851": {
+      "name": "Paderborn",
+      "file": "logo-tim/ls-2851.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2872": {
+      "name": "Fulham",
+      "file": "logo-tim/ls-2872.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2881": {
+      "name": "Chelsea",
+      "file": "logo-tim/ls-2881.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2949": {
+      "name": "Sunderland",
+      "file": "logo-tim/ls-2949.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2986": {
+      "name": "Newcastle United",
+      "file": "logo-tim/ls-2986.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2987": {
+      "name": "Cagliari",
+      "file": "logo-tim/ls-2987.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3039": {
+      "name": "Coventry City",
+      "file": "logo-tim/ls-3039.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3060": {
+      "name": "Nottingham Forest",
+      "file": "logo-tim/ls-3060.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3143": {
+      "name": "Leeds United",
+      "file": "logo-tim/ls-3143.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3178": {
+      "name": "Torino",
+      "file": "logo-tim/ls-3178.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3298": {
+      "name": "Tenerife",
+      "file": "logo-tim/ls-3298.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3333": {
+      "name": "Hoffenheim",
+      "file": "logo-tim/ls-3333.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3339": {
+      "name": "Tottenham Hotspur",
+      "file": "logo-tim/ls-3339.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "334642": {
+      "name": "Malut United",
+      "file": "logo-tim/ls-334642.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3352": {
+      "name": "Real Betis",
+      "file": "logo-tim/ls-3352.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3410": {
+      "name": "Strasbourg",
+      "file": "logo-tim/ls-3410.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3434": {
+      "name": "Cadiz",
+      "file": "logo-tim/ls-3434.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3459": {
+      "name": "Lazio",
+      "file": "logo-tim/ls-3459.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3460": {
+      "name": "Napoli",
+      "file": "logo-tim/ls-3460.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3497": {
+      "name": "Toulouse",
+      "file": "logo-tim/ls-3497.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3498": {
+      "name": "Brest",
+      "file": "logo-tim/ls-3498.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3532": {
+      "name": "Nice",
+      "file": "logo-tim/ls-3532.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3632": {
+      "name": "Eintracht Frankfurt",
+      "file": "logo-tim/ls-3632.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "364": {
+      "name": "Borussia M'gladbach",
+      "file": "logo-tim/ls-364.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3640": {
+      "name": "Granada",
+      "file": "logo-tim/ls-3640.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "365": {
+      "name": "Freiburg",
+      "file": "logo-tim/ls-365.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3656": {
+      "name": "Lyon",
+      "file": "logo-tim/ls-3656.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3730": {
+      "name": "Castellon",
+      "file": "logo-tim/ls-3730.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3731": {
+      "name": "Sabadell",
+      "file": "logo-tim/ls-3731.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3863": {
+      "name": "Aston Villa",
+      "file": "logo-tim/ls-3863.png",
+      "px": 40,
+      "src": "cache"
+    },
+    "3880": {
+      "name": "Lille",
+      "file": "logo-tim/ls-3880.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3910": {
+      "name": "Paris Saint-Germain",
+      "file": "logo-tim/ls-3910.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3928": {
+      "name": "AFC Bournemouth",
+      "file": "logo-tim/ls-3928.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4008": {
+      "name": "Valencia",
+      "file": "logo-tim/ls-4008.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4009": {
+      "name": "Real Madrid",
+      "file": "logo-tim/ls-4009.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4162": {
+      "name": "Celta Vigo",
+      "file": "logo-tim/ls-4162.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4183": {
+      "name": "Real Sociedad B",
+      "file": "logo-tim/ls-4183.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4227": {
+      "name": "Como 1907",
+      "file": "logo-tim/ls-4227.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4237": {
+      "name": "AS Roma",
+      "file": "logo-tim/ls-4237.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4253": {
+      "name": "Rayo Vallecano",
+      "file": "logo-tim/ls-4253.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4328": {
+      "name": "AS Monaco",
+      "file": "logo-tim/ls-4328.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4378": {
+      "name": "VfB Stuttgart",
+      "file": "logo-tim/ls-4378.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4410": {
+      "name": "Parma",
+      "file": "logo-tim/ls-4410.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4411": {
+      "name": "Lecce",
+      "file": "logo-tim/ls-4411.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "448": {
+      "name": "Borussia Dortmund",
+      "file": "logo-tim/ls-448.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4482": {
+      "name": "Deportivo Alaves",
+      "file": "logo-tim/ls-4482.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4707": {
+      "name": "RB Leipzig",
+      "file": "logo-tim/ls-4707.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4715": {
+      "name": "Lens",
+      "file": "logo-tim/ls-4715.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4990": {
+      "name": "Persijap Jepara",
+      "file": "logo-tim/ls-4990.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "500": {
+      "name": "Mallorca",
+      "file": "logo-tim/ls-500.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6067": {
+      "name": "PSM Makassar",
+      "file": "logo-tim/ls-6067.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6092": {
+      "name": "Bhayangkara FC",
+      "file": "logo-tim/ls-6092.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6100": {
+      "name": "Persebaya Surabaya",
+      "file": "logo-tim/ls-6100.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6104": {
+      "name": "Persija Jakarta",
+      "file": "logo-tim/ls-6104.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7281": {
+      "name": "Elversberg",
+      "file": "logo-tim/ls-7281.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "82774": {
+      "name": "CD Eldense",
+      "file": "logo-tim/ls-82774.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8586": {
+      "name": "Persik Kediri",
+      "file": "logo-tim/ls-8586.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8888": {
+      "name": "New England Revolution",
+      "file": "logo-tim/ls-8888.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8929": {
+      "name": "FC Dallas",
+      "file": "logo-tim/ls-8929.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8930": {
+      "name": "Philadelphia Union",
+      "file": "logo-tim/ls-8930.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8975": {
+      "name": "Portland Timbers",
+      "file": "logo-tim/ls-8975.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8990": {
+      "name": "Columbus Crew",
+      "file": "logo-tim/ls-8990.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "9001": {
+      "name": "Inter Miami CF",
+      "file": "logo-tim/ls-9001.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "195": {
+      "name": "Le Mans",
+      "file": "logo-tim/ls-195.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "202750": {
+      "name": "Charlotte",
+      "file": "logo-tim/ls-202750.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "205": {
+      "name": "Rennes",
+      "file": "logo-tim/ls-205.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "206": {
+      "name": "Marseille",
+      "file": "logo-tim/ls-206.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "265": {
+      "name": "Hamburger SV",
+      "file": "logo-tim/ls-265.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2810": {
+      "name": "Manchester United",
+      "file": "logo-tim/ls-2810.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2871": {
+      "name": "Hull City",
+      "file": "logo-tim/ls-2871.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2911": {
+      "name": "Barcelona",
+      "file": "logo-tim/ls-2911.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2912": {
+      "name": "Atletico Madrid",
+      "file": "logo-tim/ls-2912.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "2918": {
+      "name": "Brighton",
+      "file": "logo-tim/ls-2918.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2988": {
+      "name": "AC Milan",
+      "file": "logo-tim/ls-2988.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "317": {
+      "name": "Paris FC",
+      "file": "logo-tim/ls-317.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3179": {
+      "name": "Genoa",
+      "file": "logo-tim/ls-3179.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "318": {
+      "name": "Augsburg",
+      "file": "logo-tim/ls-318.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3310": {
+      "name": "Mainz 05",
+      "file": "logo-tim/ls-3310.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3340": {
+      "name": "Liverpool",
+      "file": "logo-tim/ls-3340.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3358": {
+      "name": "Las Palmas",
+      "file": "logo-tim/ls-3358.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3379": {
+      "name": "Getafe",
+      "file": "logo-tim/ls-3379.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3415": {
+      "name": "Inter",
+      "file": "logo-tim/ls-3415.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3416": {
+      "name": "Atalanta",
+      "file": "logo-tim/ls-3416.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3531": {
+      "name": "Angers",
+      "file": "logo-tim/ls-3531.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3549": {
+      "name": "Albacete",
+      "file": "logo-tim/ls-3549.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3586": {
+      "name": "Girona",
+      "file": "logo-tim/ls-3586.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3608": {
+      "name": "Villarreal",
+      "file": "logo-tim/ls-3608.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3658": {
+      "name": "Real Valladolid",
+      "file": "logo-tim/ls-3658.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3727": {
+      "name": "Werder Bremen",
+      "file": "logo-tim/ls-3727.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "3786": {
+      "name": "Eibar",
+      "file": "logo-tim/ls-3786.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3787": {
+      "name": "Celta Vigo B",
+      "file": "logo-tim/ls-3787.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3861": {
+      "name": "Udinese",
+      "file": "logo-tim/ls-3861.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3862": {
+      "name": "Sassuolo",
+      "file": "logo-tim/ls-3862.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3903": {
+      "name": "Bologna",
+      "file": "logo-tim/ls-3903.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "411610": {
+      "name": "Isenmulang Kalteng",
+      "file": "logo-tim/ls-411610.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4169": {
+      "name": "Real Sociedad",
+      "file": "logo-tim/ls-4169.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4182": {
+      "name": "Burgos CF",
+      "file": "logo-tim/ls-4182.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4195": {
+      "name": "Cordoba",
+      "file": "logo-tim/ls-4195.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4238": {
+      "name": "Juventus",
+      "file": "logo-tim/ls-4238.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4320": {
+      "name": "Sporting Gijon",
+      "file": "logo-tim/ls-4320.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4403": {
+      "name": "Lorient",
+      "file": "logo-tim/ls-4403.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4436": {
+      "name": "Bali United",
+      "file": "logo-tim/ls-4436.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4442": {
+      "name": "Malaga",
+      "file": "logo-tim/ls-4442.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4456": {
+      "name": "Real Oviedo",
+      "file": "logo-tim/ls-4456.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4508": {
+      "name": "Racing Santander",
+      "file": "logo-tim/ls-4508.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4617": {
+      "name": "Frosinone",
+      "file": "logo-tim/ls-4617.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "463": {
+      "name": "Osasuna",
+      "file": "logo-tim/ls-463.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4652": {
+      "name": "Venezia",
+      "file": "logo-tim/ls-4652.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "6066": {
+      "name": "Persib Bandung",
+      "file": "logo-tim/ls-6066.png",
+      "px": 43,
+      "src": "livescore"
+    },
+    "6071": {
+      "name": "Borneo FC Samarinda",
+      "file": "logo-tim/ls-6071.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "8927": {
+      "name": "Nashville SC",
+      "file": "logo-tim/ls-8927.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8959": {
+      "name": "Chicago Fire",
+      "file": "logo-tim/ls-8959.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2865": {
+      "name": "Brentford",
+      "file": "logo-tim/ls-2865.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2917": {
+      "name": "Everton",
+      "file": "logo-tim/ls-2917.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3622": {
+      "name": "Elche",
+      "file": "logo-tim/ls-3622.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3951": {
+      "name": "Fiorentina",
+      "file": "logo-tim/ls-3951.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4164": {
+      "name": "Levante",
+      "file": "logo-tim/ls-4164.png",
+      "px": 48,
+      "src": "cache"
+    },
+    "4168": {
+      "name": "AD Ceuta FC",
+      "file": "logo-tim/ls-4168.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4224": {
+      "name": "Monza",
+      "file": "logo-tim/ls-4224.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4518": {
+      "name": "Almeria",
+      "file": "logo-tim/ls-4518.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8920": {
+      "name": "Vancouver Whitecaps",
+      "file": "logo-tim/ls-8920.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "189": {
+      "name": "Galatasaray",
+      "file": "logo-tim/ls-189.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "244836": {
+      "name": "St. Louis City",
+      "file": "logo-tim/ls-244836.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "262": {
+      "name": "FC Porto",
+      "file": "logo-tim/ls-262.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "329495": {
+      "name": "Bodoe/Glimt",
+      "file": "logo-tim/ls-329495.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4281": {
+      "name": "AEK Athens",
+      "file": "logo-tim/ls-4281.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "449": {
+      "name": "Feyenoord",
+      "file": "logo-tim/ls-449.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "497": {
+      "name": "PSV Eindhoven",
+      "file": "logo-tim/ls-497.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "5268": {
+      "name": "LASK",
+      "file": "logo-tim/ls-5268.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6793": {
+      "name": "Slovan Bratislava",
+      "file": "logo-tim/ls-6793.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7911": {
+      "name": "Los Angeles FC",
+      "file": "logo-tim/ls-7911.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3365": {
+      "name": "Club Brugge",
+      "file": "logo-tim/ls-3365.png",
+      "px": 37,
+      "src": "livescore"
+    },
+    "3442": {
+      "name": "Sporting CP",
+      "file": "logo-tim/ls-3442.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4452": {
+      "name": "Fenerbahçe",
+      "file": "logo-tim/ls-4452.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6145": {
+      "name": "Slavia Prague",
+      "file": "logo-tim/ls-6145.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6181": {
+      "name": "Sabah FK",
+      "file": "logo-tim/ls-6181.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6389": {
+      "name": "Shakhtar Donetsk",
+      "file": "logo-tim/ls-6389.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7351": {
+      "name": "Viking",
+      "file": "logo-tim/ls-7351.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8899": {
+      "name": "Houston Dynamo",
+      "file": "logo-tim/ls-8899.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8908": {
+      "name": "San Jose Earthquakes",
+      "file": "logo-tim/ls-8908.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "229696": {
+      "name": "Al Riyadh",
+      "file": "logo-tim/ls-229696.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "236": {
+      "name": "AZ Alkmaar",
+      "file": "logo-tim/ls-236.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "291": {
+      "name": "Beşiktaş",
+      "file": "logo-tim/ls-291.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "2963": {
+      "name": "Sturm Graz",
+      "file": "logo-tim/ls-2963.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "304": {
+      "name": "Benfica",
+      "file": "logo-tim/ls-304.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3316": {
+      "name": "Hapoel Beer Sheva",
+      "file": "logo-tim/ls-3316.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3372": {
+      "name": "Al Faisaly",
+      "file": "logo-tim/ls-3372.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3468": {
+      "name": "Union St.Gilloise",
+      "file": "logo-tim/ls-3468.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "356": {
+      "name": "Omonia Nicosia",
+      "file": "logo-tim/ls-356.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "380": {
+      "name": "Ferencvaros",
+      "file": "logo-tim/ls-380.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3925": {
+      "name": "OFI Crete",
+      "file": "logo-tim/ls-3925.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4093": {
+      "name": "Torreense",
+      "file": "logo-tim/ls-4093.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4186": {
+      "name": "Olympiacos",
+      "file": "logo-tim/ls-4186.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4202": {
+      "name": "NEC Nijmegen",
+      "file": "logo-tim/ls-4202.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4380": {
+      "name": "Abha",
+      "file": "logo-tim/ls-4380.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "445": {
+      "name": "Al Shabab",
+      "file": "logo-tim/ls-445.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4661": {
+      "name": "FC Salzburg",
+      "file": "logo-tim/ls-4661.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4700": {
+      "name": "Celtic",
+      "file": "logo-tim/ls-4700.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "472": {
+      "name": "Anderlecht",
+      "file": "logo-tim/ls-472.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "4888": {
+      "name": "Lech Poznan",
+      "file": "logo-tim/ls-4888.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6078": {
+      "name": "Jagiellonia Bialystok",
+      "file": "logo-tim/ls-6078.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6179": {
+      "name": "Dinamo Zagreb",
+      "file": "logo-tim/ls-6179.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6476": {
+      "name": "Viktoria Plzen",
+      "file": "logo-tim/ls-6476.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6552": {
+      "name": "Levski Sofia",
+      "file": "logo-tim/ls-6552.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "6613": {
+      "name": "Sparta Prague",
+      "file": "logo-tim/ls-6613.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7082": {
+      "name": "Lillestroem",
+      "file": "logo-tim/ls-7082.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7877": {
+      "name": "NK Celje",
+      "file": "logo-tim/ls-7877.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8": {
+      "name": "Al Fateh",
+      "file": "logo-tim/ls-8.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "8049": {
+      "name": "Ararat Armenia",
+      "file": "logo-tim/ls-8049.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "12006": {
+      "name": "Al Qadsiah",
+      "file": "logo-tim/ls-12006.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "195495": {
+      "name": "Manchester City U21",
+      "file": "logo-tim/ls-195495.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "195506": {
+      "name": "West Ham United U21",
+      "file": "logo-tim/ls-195506.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "195511": {
+      "name": "Tottenham Hotspur U21",
+      "file": "logo-tim/ls-195511.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "228422": {
+      "name": "Nottingham Forest U21",
+      "file": "logo-tim/ls-228422.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "230031": {
+      "name": "Norwich City U21",
+      "file": "logo-tim/ls-230031.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "230037": {
+      "name": "West Bromwich Albion U21",
+      "file": "logo-tim/ls-230037.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "230919": {
+      "name": "Fulham U21",
+      "file": "logo-tim/ls-230919.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "266865": {
+      "name": "Al Kholood",
+      "file": "logo-tim/ls-266865.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "331851": {
+      "name": "NEOM SC",
+      "file": "logo-tim/ls-331851.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "3420": {
+      "name": "Al Feiha",
+      "file": "logo-tim/ls-3420.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "347": {
+      "name": "Al Ittihad",
+      "file": "logo-tim/ls-347.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "7878": {
+      "name": "Al Khaleej",
+      "file": "logo-tim/ls-7878.png",
+      "px": 48,
+      "src": "livescore"
+    },
+    "83575": {
+      "name": "Chelsea U21",
+      "file": "logo-tim/ls-83575.png",
+      "px": 48,
+      "src": "livescore"
+    }
+  },
+  "leagues": {
+    "french-ligue-1": {
+      "name": "french-ligue-1",
+      "file": "logo-tim/ls-liga-french-ligue-1.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "german-bundesliga": {
+      "name": "german-bundesliga",
+      "file": "logo-tim/ls-liga-german-bundesliga.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "indonesian-super-league": {
+      "name": "indonesian-super-league",
+      "file": "logo-tim/ls-liga-indonesian-super-league.png",
+      "px": 1590,
+      "tier": "original"
+    },
+    "saudi-pro-league": {
+      "name": "saudi-pro-league",
+      "file": "logo-tim/ls-liga-saudi-pro-league.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "spanish-laliga": {
+      "name": "spanish-laliga",
+      "file": "logo-tim/ls-liga-spanish-laliga.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "english-premier-league": {
+      "name": "english-premier-league",
+      "file": "logo-tim/ls-liga-english-premier-league.png",
+      "px": 120,
+      "tier": "original"
+    },
+    "italian-serie-a": {
+      "name": "italian-serie-a",
+      "file": "logo-tim/ls-liga-italian-serie-a.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "uefa-champions-league": {
+      "name": "uefa-champions-league",
+      "file": "logo-tim/ls-liga-uefa-champions-league.png",
+      "px": 60,
+      "tier": "high"
+    },
+    "uefa-europa-league": {
+      "name": "uefa-europa-league",
+      "file": "logo-tim/ls-liga-uefa-europa-league.png",
+      "px": 60,
+      "tier": "high"
+    }
+  }
+}
