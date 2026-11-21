@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1795253343,
+  "built": 1795255273,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -10,8 +10,8 @@
       "sumber": "rctiplus",
       "kanal": 10,
       "valid_until": 4102444800,
-      "sha256": "c0560c2f924d03da879b720e4c7b3ff86b1d6626f65eed367a2dba37a2bff50e",
-      "ukuran": 13089
+      "sha256": "51053e7411407b1891b24febe096eac27955ff228d65ca2cc5035919d88c3238",
+      "ukuran": 13201
     },
     {
       "nama": "welltwo",
