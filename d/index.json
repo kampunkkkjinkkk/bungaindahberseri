@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "built": 1795315739,
+  "built": 1795317545,
   "jumlah_sumur": 4,
   "sumur": [
     {
@@ -20,8 +20,8 @@
       "sumber": "vidio",
       "kanal": 3,
       "valid_until": 4102444800,
-      "sha256": "bfb85f4465ed14942bf66bbd8ecc4fdfc51a434727aa865c5667f1806b53c436",
-      "ukuran": 1309
+      "sha256": "a8dd6ea04bfdc2b0cc4632ad585ef1afeef019c30c1ac4d845506ece2e405b2e",
+      "ukuran": 1313
     },
     {
       "nama": "wellthree",
@@ -30,7 +30,7 @@
       "sumber": "bittv",
       "kanal": 83,
       "valid_until": 4102444800,
-      "sha256": "281270d81ab4396fa31bd79b257aa786d86323a6f503bf510c13bc1d5e160da9",
+      "sha256": "7e5318f8d13845f3cba04262e23a38446068cc843a7636b20069f415edfe0cb5",
       "ukuran": 72617
     },
     {
@@ -40,7 +40,7 @@
       "sumber": "public",
       "kanal": 10,
       "valid_until": 4102444800,
-      "sha256": "8e236024ba8c5d15399771d4e47a54426462821a8f4059b257bf24cf34961120",
+      "sha256": "79d6712d6723e9ca50ceaab76a5ddd2cc9e6e3f834761d47ee764d1ad07fb59c",
       "ukuran": 8501
     }
   ]
