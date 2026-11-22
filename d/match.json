@@ -1,7 +1,7 @@
 {
-  "payload_b64": "eyJ2ZXJzaSI6MSwiZGlidWF0IjoxNzk1MzIxMDAxLCJqdW1sYWgiOjAsImxhZ2EiOltdfQ==",
-  "payload_sha256": "e8bc1073cfead33682e63605146b92f9dcd07b3760225181b6a80de4f5ea8568",
-  "sig": "3101b3e31632396523b3ef8be9a1fc61b6141f78b8ea7c2626d0b7eb70bdce2231fb9079b69596716ae5203934f90da8287d5c7689e8eca4b72ce2d26d68ad02",
+  "payload_b64": "eyJ2ZXJzaSI6MSwiZGlidWF0IjoxNzk1MzIyODIzLCJqdW1sYWgiOjAsImxhZ2EiOltdfQ==",
+  "payload_sha256": "9c9eda771bc4c13a881d4d3c64b7194cc1ea53019b29882e6652b1116e314645",
+  "sig": "c2c5afff5ec9fdbbd45d9d2b01d04103ebd6897ad5aadd1e04309fb7d2ebf0390dc15ced721ee32ff9b0d3ec1534c64778aaf173c54167ce3d05810d70a03e0e",
   "sig_alg": "ed25519",
   "sumber": "laga",
   "versi": 1
